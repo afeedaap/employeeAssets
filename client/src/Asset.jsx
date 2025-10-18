@@ -56,7 +56,7 @@ function SignUp() {
             />
           </div>
 
-          {/* Password */}
+       
           <div className="mb-3">
             <label htmlFor="password" className="form-label"><strong>Password</strong></label>
             <input
